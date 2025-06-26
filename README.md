@@ -1,6 +1,9 @@
 # 2048 Game - React Native
 This project is a mobile adaptation of the classic 2048 puzzle game, which I originally implemented as a Python terminal application and have now brought to life with a colorful React Native UI and intuitive swipe gestures.
 
+<img src="assets/Screenshot.jpg" alt="2048 Game Screenshot" width="300"/>
+
+
 ## Features
 - Classic 4×4 2048 gameplay
 - Smooth swipe controls using react-native-gesture-handler
