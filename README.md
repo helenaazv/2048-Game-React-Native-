@@ -20,7 +20,7 @@ To run this project, you’ll need:
 
 ### Installation
 
-- git clone https://github.com/helenaazv/2048-Game-React-Native.git
+- git clone [https://github.com/helenaazv/2048-Game-React-Native.git](https://github.com/helenaazv/2048-Game-React-Native-.git)
 - cd 2048-react-native
 - npm install
 - expo start
